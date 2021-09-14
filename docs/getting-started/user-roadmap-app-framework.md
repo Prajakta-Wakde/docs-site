@@ -4,7 +4,7 @@ This roadmap outlines information resources that are applicable to the various u
 
 The following definition of skill levels about Zowe will help you gather most relevant resources for you. 
 
-* Beginner: You're starting out and want to learn the fundamentals.
+* Beginner: You are starting out and want to learn the fundamentals.
 * Intermediate: You have some experience but want to learn more in-depth skills. 
 * Advanced: You have lots of experience and are looking to learn about specialized topics.
 
